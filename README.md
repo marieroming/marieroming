@@ -1,6 +1,6 @@
 👋 Hi, I’m Marie Roming
 
-🌱 I’m currently learning Web development with a UX/UI design focus.
+🌱 I’m currently learning Game-Developement using Unity and C#.
 
 
 
