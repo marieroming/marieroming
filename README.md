@@ -1,6 +1,6 @@
 👋 Hi, I’m Marie Roming
 
-🌱 I’m currently learning Game-Developement using Unity and C#.
+🌱 I’m currently learning Game-Developement and Engineering using Unity and C#.
 
 
 
